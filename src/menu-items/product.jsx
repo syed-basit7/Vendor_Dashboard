@@ -20,7 +20,7 @@ const product = {
     },
     {
       id: "product-list",
-      // title: "Product List",
+      title: "Product List",
       type: "item",
       url: "/product-list",
       iconSelected: "/assets/selected-product.svg",
